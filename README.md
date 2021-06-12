@@ -21,3 +21,7 @@ mount_removable=0
     killall pcmanfm
     pcmanfm --desktop --profile lubuntu --display :0 &
 '''
+
+# set config.py
+See documentation for each parameter and set accordingly
+- Notice the deployment script will be executed under udev -> as root
