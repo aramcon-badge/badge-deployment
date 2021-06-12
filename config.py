@@ -1,3 +1,6 @@
+DEBUG = False
+FORCE_UPDATE = False
+
 # IMPORTANT: install requirements.txt as root also!
 ADAFRUIT_NRFUTIL_PATH = "adafruit-nrfutil"
 

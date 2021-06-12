@@ -5,8 +5,6 @@ import logging
 import subprocess
 from config import *
 
-DEBUG = False
-FORCE_UPDATE = False
 DEPLOYER_LOG_PATH = "/tmp/deployer.log"
 
 MOUNTPOINT = "/mnt"
