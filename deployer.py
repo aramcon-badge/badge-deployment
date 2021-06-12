@@ -10,7 +10,7 @@ FORCE_UPDATE = False
 DEPLOYER_LOG_PATH = "/tmp/deployer.log"
 
 MOUNTPOINT = "/mnt"
-BADGE_SERIAL_DEV = "/dev/ttyACM0"  # TODO udev rule for /dev/badge_serial
+BADGE_SERIAL_DEV = "/dev/badge_serial"
 
 BOOTLOADER_INFO_FILENAME = "INFO_UF2.TXT"
 FIRMWARE_UPDATE_FILENAME = "firmware.uf2"
